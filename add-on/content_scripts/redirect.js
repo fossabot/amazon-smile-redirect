@@ -1,0 +1,1 @@
+window.location.hostname = window.location.hostname.replace('www', 'smile')

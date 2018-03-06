@@ -1,0 +1,24 @@
+{
+	"name": "amazon-smile-redirect",
+	"version": "1.1.0",
+	"description": "Amazon Smile Redirect",
+	"author": "nitrohorse",
+	"scripts": {
+		"bundle": "web-ext -s add-on -a dist build --overwrite-dest",
+		"serve": "web-ext run -s ./add-on"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nitrohorse/amazon-smile-redirect"
+	},
+	"bugs": {
+		"url": "https://github.com/nitrohorse/amazon-smile-redirect/issues"
+	},
+	"license": "GPL-3.0",
+	"keywords": [
+		"webextensions"
+	],
+	"devDependencies": {
+		"web-ext": "^2.4.0"
+	}
+}
