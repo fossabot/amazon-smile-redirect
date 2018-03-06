@@ -3,7 +3,7 @@
 Browser extension that redirects [https://www.amazon.com/*](https://www.amazon.com) links to [https://smile.amazon/*](https://smile.amazon.com).
 
 ## Download
-* Coming soon...
+* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/amazon-smile-redirector/)
 
 ## Install Locally
 * Firefox: [temporary](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Temporary_Installation_in_Firefox)
