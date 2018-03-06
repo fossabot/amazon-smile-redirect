@@ -7,7 +7,7 @@
 	"description": "Redirects all Amazon.com links to Smile.Amazon.com. \n\nFree and open-source.",
 
 	"icons": {
-		"48": "icons/icon.png"
+		"64": "icons/icon-64.png"
 	},
 
 	"content_scripts": [

@@ -17,3 +17,6 @@ Browser extension that redirects [https://www.amazon.com/*](https://www.amazon.c
 	* `yarn serve`
 * Bundle add-on into a zip file for distribution:
 	* `yarn bundle`
+
+## Resources
+* Icon by [Icons8](https://icons8.com/)
