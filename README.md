@@ -1,8 +1,9 @@
 # Amazon Smile Redirect
 
+[![devDependency Status](https://david-dm.org/nitrohorse/amazon-smile-redirect/dev-status.svg)](https://david-dm.org/nitrohorse/amazon-smile-redirect#info=devDependencies)
 [![Known Vulnerabilities](https://snyk.io/test/github/nitrohorse/amazon-smile-redirect/badge.svg?targetFile=package.json)](https://snyk.io/test/github/nitrohorse/amazon-smile-redirect?targetFile=package.json)
 
-Browser extension that redirects [https://www.amazon.com/*](https://www.amazon.com) links to [https://smile.amazon/*](https://smile.amazon.com) so that you don't forget to contribute to your non-profit.
+Browser extension that redirects [https://www.amazon.com/*](https://www.amazon.com) links to [https://smile.amazon/*](https://smile.amazon.com) so that you don't forget to contribute to your favorite non-profit.
 
 ## Download
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/amazon-smile-redirector/)
