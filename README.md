@@ -2,6 +2,7 @@
 
 [![devDependency Status](https://david-dm.org/nitrohorse/amazon-smile-redirect/dev-status.svg)](https://david-dm.org/nitrohorse/amazon-smile-redirect#info=devDependencies)
 [![Known Vulnerabilities](https://snyk.io/test/github/nitrohorse/amazon-smile-redirect/badge.svg?targetFile=package.json)](https://snyk.io/test/github/nitrohorse/amazon-smile-redirect?targetFile=package.json)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnitrohorse%2Famazon-smile-redirect.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnitrohorse%2Famazon-smile-redirect?ref=badge_shield)
 
 Browser extension that redirects [https://www.amazon.com/*](https://www.amazon.com) links to [https://smile.amazon/*](https://smile.amazon.com) so that you don't forget to contribute to your favorite non-profit.
 
@@ -23,3 +24,7 @@ Browser extension that redirects [https://www.amazon.com/*](https://www.amazon.c
 
 ## Resources
 * Icon by [Icons8](https://icons8.com/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnitrohorse%2Famazon-smile-redirect.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnitrohorse%2Famazon-smile-redirect?ref=badge_large)
