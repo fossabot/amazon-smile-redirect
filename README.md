@@ -1,6 +1,8 @@
 # Amazon Smile Redirect
 
-Browser extension that redirects [https://www.amazon.com/*](https://www.amazon.com) links to [https://smile.amazon/*](https://smile.amazon.com).
+[![Known Vulnerabilities](https://snyk.io/test/github/nitrohorse/amazon-smile-redirect/badge.svg?targetFile=package.json)](https://snyk.io/test/github/nitrohorse/amazon-smile-redirect?targetFile=package.json)
+
+Browser extension that redirects [https://www.amazon.com/*](https://www.amazon.com) links to [https://smile.amazon/*](https://smile.amazon.com) so that you don't forget to contribute to your non-profit.
 
 ## Download
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/amazon-smile-redirector/)
